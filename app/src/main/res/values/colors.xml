@@ -1,6 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
+<!--?xml version="1.0" encoding="UTF-8"?-->
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+  <color name="blue200">#98cdf3</color>
+  <color name="blue500">#459be7</color>
+  <color name="blue700">#1f7dcf</color>
+  <color name="yellow200">#f1ee92</color>
+  <color name="yellow500">#e5de15</color>
+  <color name="grey50">#fafafa</color>
+  <color name="grey900">#212121</color>
+  <color name="red200">#ef9a9a</color>
+  <color name="red900">#b71c1c</color>
+
+  <color name="primary">@color/blue500</color>
+  <color name="primaryVariant">@color/blue700</color>
+  <color name="onPrimary">@color/grey900</color>
+  <color name="secondary">@color/yellow200</color>
+  <color name="secondaryVariant">@color/yellow500</color>
+  <color name="onSecondary">@color/grey900</color>
+  <color name="background">@color/grey50</color>
+  <color name="onBackground">@color/grey900</color>
+  <color name="surface">@color/grey50</color>
+  <color name="onSurface">@color/grey900</color>
+  <color name="error">@color/red900</color>
+  <color name="onError">@color/grey50</color>
 </resources>
